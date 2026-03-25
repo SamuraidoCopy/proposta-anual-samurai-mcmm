@@ -1,0 +1,307 @@
+{
+	"@aios-master": {
+		"prefix": "@aios-master",
+		"body": "Ative o agente @aios-master",
+		"description": "AIOS Master - Master Principal"
+	},
+	"@aios": {
+		"prefix": "@aios",
+		"body": "Ative o agente @aios",
+		"description": "AIOS - Agent Intelligence Operating System"
+	},
+	"@dev": {
+		"prefix": "@dev",
+		"body": "Ative o agente @dev",
+		"description": "Developer - Especialista em desenvolvimento"
+	},
+	"@devops": {
+		"prefix": "@devops",
+		"body": "Ative o agente @devops",
+		"description": "DevOps Engineer - Infraestrutura e deployment"
+	},
+	"@architect": {
+		"prefix": "@architect",
+		"body": "Ative o agente @architect",
+		"description": "Architect - Arquiteto de sistemas"
+	},
+	"@data-engineer": {
+		"prefix": "@data-engineer",
+		"body": "Ative o agente @data-engineer",
+		"description": "Data Engineer - Engenheiro de dados"
+	},
+	"@pm": {
+		"prefix": "@pm",
+		"body": "Ative o agente @pm",
+		"description": "Product Manager"
+	},
+	"@po": {
+		"prefix": "@po",
+		"body": "Ative o agente @po",
+		"description": "Product Owner"
+	},
+	"@analyst": {
+		"prefix": "@analyst",
+		"body": "Ative o agente @analyst",
+		"description": "Analyst - Analista"
+	},
+	"@qa": {
+		"prefix": "@qa",
+		"body": "Ative o agente @qa",
+		"description": "Quality Assurance"
+	},
+	"@dmcorretorsamurai": {
+		"prefix": "@dmcorretorsamurai",
+		"body": "Ative o agente @dmcorretorsamurai",
+		"description": "🥋 DM Corretor Samurai"
+	},
+	"@closercorretorsamurai": {
+		"prefix": "@closercorretorsamurai",
+		"body": "Ative o agente @closercorretorsamurai",
+		"description": "🥋 Closer Corretor Samurai"
+	},
+	"@closerinclusaosamurai": {
+		"prefix": "@closerinclusaosamurai",
+		"body": "Ative o agente @closerinclusaosamurai",
+		"description": "🥋 Closer Inclusão Samurai"
+	},
+	"@dminclusaosamurai": {
+		"prefix": "@dminclusaosamurai",
+		"body": "Ative o agente @dminclusaosamurai",
+		"description": "🥋 DM Inclusão Samurai"
+	},
+	"@spinimobiliariasamurai": {
+		"prefix": "@spinimobiliariasamurai",
+		"body": "Ative o agente @spinimobiliariasamurai",
+		"description": "🥋 Spin Imobiliária Samurai"
+	},
+	"@spininclusaosamurai": {
+		"prefix": "@spininclusaosamurai",
+		"body": "Ative o agente @spininclusaosamurai",
+		"description": "🥋 Spin Inclusão Samurai"
+	},
+	"@prospectscorretorsamurai": {
+		"prefix": "@prospectscorretorsamurai",
+		"body": "Ative o agente @prospectscorretorsamurai",
+		"description": "🥋 Prospects Corretor Samurai"
+	},
+	"@dmcatolico": {
+		"prefix": "@dmcatolico",
+		"body": "Ative o agente @dmcatolico",
+		"description": "⛪ DM Católico"
+	},
+	"@spincatolico": {
+		"prefix": "@spincatolico",
+		"body": "Ative o agente @spincatolico",
+		"description": "⛪ Spin Católico"
+	},
+	"@closercatolico": {
+		"prefix": "@closercatolico",
+		"body": "Ative o agente @closercatolico",
+		"description": "⛪ Closer Católico"
+	},
+	"@hormozi": {
+		"prefix": "@hormozi",
+		"body": "Ative o agente @hormozi",
+		"description": "💰 Hormozi Master"
+	},
+	"@hormozi-offers": {
+		"prefix": "@hormozi-offers",
+		"body": "Ative o agente @hormozi-offers",
+		"description": "💰 Hormozi Offers"
+	},
+	"@hormozi-leads": {
+		"prefix": "@hormozi-leads",
+		"body": "Ative o agente @hormozi-leads",
+		"description": "💰 Hormozi Leads"
+	},
+	"@hormozi-money": {
+		"prefix": "@hormozi-money",
+		"body": "Ative o agente @hormozi-money",
+		"description": "💰 Hormozi Money"
+	},
+	"@hormozi-playbooks": {
+		"prefix": "@hormozi-playbooks",
+		"body": "Ative o agente @hormozi-playbooks",
+		"description": "💰 Hormozi Playbooks"
+	},
+	"@squad-creator": {
+		"prefix": "@squad-creator",
+		"body": "Ative o agente @squad-creator",
+		"description": "Squad Creator"
+	},
+	"@copysquad": {
+		"prefix": "@copysquad",
+		"body": "Ative o agente @copysquad",
+		"description": "Copy Squad"
+	},
+	"@traffic": {
+		"prefix": "@traffic",
+		"body": "Ative o agente @traffic",
+		"description": "Traffic Expert"
+	},
+	"@spin": {
+		"prefix": "@spin",
+		"body": "Ative o agente @spin",
+		"description": "Spin Universal"
+	},
+	"@spin-universal": {
+		"prefix": "@spin-universal",
+		"body": "Ative o agente @spin-universal",
+		"description": "Spin Avançado"
+	},
+	"@ux": {
+		"prefix": "@ux",
+		"body": "Ative o agente @ux",
+		"description": "UX Designer"
+	},
+	"@ux-design-expert": {
+		"prefix": "@ux-design-expert",
+		"body": "Ative o agente @ux-design-expert",
+		"description": "UX Design Expert"
+	},
+	"@ead": {
+		"prefix": "@ead",
+		"body": "Ative o agente @ead",
+		"description": "EAD Expert"
+	},
+	"@yt": {
+		"prefix": "@yt",
+		"body": "Ative o agente @yt",
+		"description": "YouTube Specialist"
+	},
+	"@yt-seeker": {
+		"prefix": "@yt-seeker",
+		"body": "Ative o agente @yt-seeker",
+		"description": "YouTube Seeker"
+	},
+	"@dotcom": {
+		"prefix": "@dotcom",
+		"body": "Ative o agente @dotcom",
+		"description": "Dotcom Expert"
+	},
+	"@alyssa": {
+		"prefix": "@alyssa",
+		"body": "Ative o agente @alyssa",
+		"description": "Alyssa"
+	},
+	"@brad": {
+		"prefix": "@brad",
+		"body": "Ative o agente @brad",
+		"description": "Brad"
+	},
+	"@evaldo": {
+		"prefix": "@evaldo",
+		"body": "Ative o agente @evaldo",
+		"description": "Evaldo"
+	},
+	"@expert-rb": {
+		"prefix": "@expert-rb",
+		"body": "Ative o agente @expert-rb",
+		"description": "Expert RB"
+	},
+	"@fladelin": {
+		"prefix": "@fladelin",
+		"body": "Ative o agente @fladelin",
+		"description": "Fladelin"
+	},
+	"@gene": {
+		"prefix": "@gene",
+		"body": "Ative o agente @gene",
+		"description": "Gene"
+	},
+	"@makepeace": {
+		"prefix": "@makepeace",
+		"body": "Ative o agente @makepeace",
+		"description": "Makepeace"
+	},
+	"@marcos": {
+		"prefix": "@marcos",
+		"body": "Ative o agente @marcos",
+		"description": "Marcos"
+	},
+	"@mckee": {
+		"prefix": "@mckee",
+		"body": "Ative o agente @mckee",
+		"description": "McKee"
+	},
+	"@meeting-analyst": {
+		"prefix": "@meeting-analyst",
+		"body": "Ative o agente @meeting-analyst",
+		"description": "Meeting Analyst"
+	},
+	"@novo": {
+		"prefix": "@novo",
+		"body": "Ative o agente @novo",
+		"description": "Novo"
+	},
+	"@olavo": {
+		"prefix": "@olavo",
+		"body": "Ative o agente @olavo",
+		"description": "Olavo"
+	},
+	"@rory": {
+		"prefix": "@rory",
+		"body": "Ative o agente @rory",
+		"description": "Rory"
+	},
+	"@russell": {
+		"prefix": "@russell",
+		"body": "Ative o agente @russell",
+		"description": "Russell"
+	},
+	"@sherlock": {
+		"prefix": "@sherlock",
+		"body": "Ative o agente @sherlock",
+		"description": "Sherlock"
+	},
+	"@silva": {
+		"prefix": "@silva",
+		"body": "Ative o agente @silva",
+		"description": "Silva"
+	},
+	"@simon": {
+		"prefix": "@simon",
+		"body": "Ative o agente @simon",
+		"description": "Simon"
+	},
+	"@sm": {
+		"prefix": "@sm",
+		"body": "Ative o agente @sm",
+		"description": "SM"
+	},
+	"@todd": {
+		"prefix": "@todd",
+		"body": "Ative o agente @todd",
+		"description": "Todd"
+	},
+	"@squad": {
+		"prefix": "@squad",
+		"body": "Ative o agente @squad",
+		"description": "Squad"
+	},
+	"@contrato": {
+		"prefix": "@contrato",
+		"body": "Ative o agente @contrato",
+		"description": "Contrato"
+	},
+	"@proposta": {
+		"prefix": "@proposta",
+		"body": "Ative o agente @proposta",
+		"description": "Proposta"
+	},
+	"@questionario": {
+		"prefix": "@questionario",
+		"body": "Ative o agente @questionario",
+		"description": "Questionário"
+	},
+	"@rastreador": {
+		"prefix": "@rastreador",
+		"body": "Ative o agente @rastreador",
+		"description": "Rastreador"
+	},
+	"@reuniao": {
+		"prefix": "@reuniao",
+		"body": "Ative o agente @reuniao",
+		"description": "Reunião"
+	}
+}

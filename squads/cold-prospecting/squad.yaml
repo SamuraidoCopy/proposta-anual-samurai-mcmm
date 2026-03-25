@@ -1,0 +1,43 @@
+squadName: Cold Prospecting Squad
+squadId: cold-prospecting
+version: 1.0.0
+description: "Squad especialista em prospecção fria B2B usando múltiplos canais (Email, DM, WhatsApp), coordenado por um Orquestrador Chefe que seleciona o melhor framework."
+tags: [sales, b2b, prospecting, cold-email, outreach]
+
+infrastructure:
+  notebooklm:
+    - id: 8e139483-129b-4bb7-9e6f-78fd55178fcc
+      name: "Frameworks e Benchmarks de Prospecção B2B (2023-2026)"
+      description: "Knowledge base for Chief Prospector to diagnose and benchmark campaigns."
+    - id: c606a0e7-d38a-45be-97be-e149fcc818e9
+      name: "Alex Hormozi"
+      description: "Knowledge base for the Hormozi Clone (Value creation, $100M Offers, 100 Rule)."
+    - id: 2b854819-0415-42da-9d2c-ccce2ef4ae12
+      name: "Jeb Blount"
+      description: "Knowledge base for the Blount Clone (Fanatical Prospecting, Interrupting Context)."
+    - id: d20637a0-2b72-4a36-a758-7eae3452db1f
+      name: "Steli Efti"
+      description: "Knowledge base for the Efti Clone (Hustle, Relentless Follow-up, Fast SaaS closing)."
+
+permissions:
+  - notebooklm.query
+  - email.draft
+  - mcp.run
+
+members:
+  - id: chief-prospector
+    file: "agents/chief_prospector.md"
+    role: "Orchestrator and Strategist"
+    isDelegator: true
+  - id: alex-hormozi-clone
+    file: "agents/alex_hormozi.md"
+    role: "Expert in Value-Led Outreach"
+    isDelegator: false
+  - id: jeb-blount-clone
+    file: "agents/jeb_blount.md"
+    role: "Expert in Fanatical Omnichannel Outreach"
+    isDelegator: false
+  - id: steli-efti-clone
+    file: "agents/steli_efti.md"
+    role: "Expert in B2B SaaS Relentless Follow-up"
+    isDelegator: false
