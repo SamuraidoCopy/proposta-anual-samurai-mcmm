@@ -1,0 +1,6 @@
+# Ignore everything except hosting files
+/*
+!/index.html
+!/.gitignore
+!/output/
+!/output/mcmm_proposta_anual.html
